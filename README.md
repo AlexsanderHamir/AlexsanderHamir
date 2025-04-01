@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Alexsander!
 I’m a systems-focused engineer with a deep interest in building software that performs at scale and respects the underlying hardware it runs on.
 
-I specialize in crafting high-performance infrastructures with a strong emphasis on resource efficiency, HFT-level performance, scalable system architecture, and green energy principles. My work blends low-level understanding (such as OS internals and CPU architecture) with high-level system design (like distributed databases and orchestration) to build systems that are not only fast and reliable, but sustainable.
+- **Knowledge Domains:** Databases, Distributed Systems  
+- **Interests:** Computer Architecture, Operating Systems, Algorithm Design  
+- **Specialties:** Resource Efficiency, HFT Systems, System Architecture, Green Energy
+- **Mission:**  to build systems that scale responsibly — fast, efficient, and energy-aware.
 
-My mission is simple: to build systems that scale responsibly — fast, efficient, and energy-aware.
 ### 🧠 What I'm Currently Building
 - **[Specialization Project – A2GDB](https://github.com/AlexsanderHamir/A2GDB)**
 ### 📫 Let's Connect
