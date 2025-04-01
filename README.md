@@ -5,7 +5,11 @@ I specialize in crafting high-performance infrastructures with a strong emphasis
 
 My mission is simple: to build systems that scale responsibly — fast, efficient, and energy-aware.
 ### 🧠 What I'm Currently Building
-- **[Specialization Project – A2GDB](https://github.com/AlexsanderHamir/A2GDB)**  
+- **[Specialization Project – A2GDB](https://github.com/AlexsanderHamir/A2GDB)**
+### 📫 Let's Connect
+Feel free to reach out if you're working on high-performance infra, sustainable computing, or want to build some open source project.
+- 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
+- 📧 alex.gomes.hamir@outlook.com
 # 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Air](https://img.shields.io/badge/Air%20(Golang%20Hot%20Reload)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
