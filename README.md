@@ -1,7 +1,7 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 
 # 👋 Hi, I'm Alexsander!
-Welcome to my space — I’m a systems-focused engineer with a deep interest in building software that performs at scale and respects the underlying hardware it runs on.
+I’m a systems-focused engineer with a deep interest in building software that performs at scale and respects the underlying hardware it runs on.
 
 I specialize in crafting high-performance infrastructures with a strong emphasis on resource efficiency, HFT-level performance, scalable system architecture, and green energy principles. My work blends low-level understanding (such as OS internals and CPU architecture) with high-level system design (like distributed databases and orchestration) to build systems that are not only fast and reliable, but sustainable.
 
