@@ -13,7 +13,7 @@ I occasionally write about my technical learnings:
 - 📘 [Designing Systems That Respect Hardware](https://yourblog.com/designing-systems-that-respect-hardware)
 - ⚙️ [Scaling Without Wasting: Performance Meets Sustainability](https://yourblog.com/performance-meets-sustainability)
 - 🧠 [Lessons from Building a DBaaS from Scratch](https://yourblog.com/building-a-dbaas)
-👉 More posts at [yourblog.com](https://yourblog.com)
+- 👉 More posts at [yourblog.com](https://yourblog.com)
 ### 📫 Let's Connect
 Feel free to reach out if you're working on high-performance infra, sustainable computing, or want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
