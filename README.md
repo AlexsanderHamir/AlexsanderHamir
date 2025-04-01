@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 
-<!--
-**AlexanderGomes/AlexanderGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Alexsander!
+Welcome to my space — I’m a systems-focused engineer with a deep interest in building software that performs at scale and respects the underlying hardware it runs on.
 
-Here are some ideas to get you started:
+I specialize in crafting high-performance infrastructures with a strong emphasis on resource efficiency, HFT-level performance, scalable system architecture, and green energy principles. My work blends low-level understanding (such as OS internals and CPU architecture) with high-level system design (like distributed databases and orchestration) to build systems that are not only fast and reliable, but sustainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My mission is simple: to build systems that scale responsibly — fast, efficient, and energy-aware.
+
+# 💻 Tech Stack
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Air](https://img.shields.io/badge/Air%20(Golang%20Hot%20Reload)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Conan](https://img.shields.io/badge/conan-35495E?style=for-the-badge&logo=circle&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Apache Calcite](https://img.shields.io/badge/Apache%20Calcite-20232A?style=for-the-badge&logo=apache&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AlexsanderHamir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=AlexsanderHamir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
