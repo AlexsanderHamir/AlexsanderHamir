@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Alexsander!
-I’m a systems-focused engineer with a deep interest in building software that performs at scale and respects the underlying hardware it runs on.
-
-
-From January 2022 to February 2025, I taught myself computer science from scratch. Along the way, I became deeply interested in building software that’s efficient and lightweight. That passion came from a growing frustration — modern software keeps getting bloated for no good reason. Despite constant improvements in hardware, software quality often seems to go in the opposite direction.
+From January 2022 to February 2025, I taught myself computer science from scratch. Along the way, I became deeply interested in building software that’s efficient and lightweight. That passion came from a growing frustration — modern software keeps getting bloated for no good reason. Despite constant improvements in hardware, software quality seems to be going in the opposite direction.
 
 That’s why I chose to learn the following:
 - **Knowledge Domains:** Databases, Distributed Systems  
 - **Interests:** Computer Architecture, Operating Systems, Algorithm Design  
-- **Specialties:** Resource Efficiency, HFT Systems, System Architecture, Green Energy
+- **Specialties:** Resource Efficiency, HFT Systems, Green Software Practices
 
-### 🧠 What I'm Currently Building
-- **[Memory Context (Open Source)](https://github.com/AlexsanderHamir/memory-context)**
+And that's why I chose to build open source projects that address this challenge. It's difficult to create resource-efficient software when speed to market is a priority. My goal is to make it as easy as possible to develop fast, resource-efficient software—without sacrificing productivity.
+
+### 🧠 Main Open Source Projects
+- **[Memory Context](https://github.com/AlexsanderHamir/memory-context)**
+- 👉 Check fore more on my repos
 ### ✍️ Blog Posts
 I occasionally write about my technical learnings:
 - Pending....
