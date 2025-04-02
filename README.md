@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alexsander!
-From January 2022 to February 2025, I taught myself computer science from scratch. Along the way, I became deeply interested in building software that’s efficient and lightweight. That passion came from a growing frustration — modern software keeps getting bloated for no good reason. Despite constant improvements in hardware, software quality seems to be going in the opposite direction.
+From January 2022 to February 2025, I taught myself computer science. Along the way, I became deeply interested in building software that’s efficient and lightweight. That interest came from a growing frustration — modern software keeps getting bloated for no good reason. Despite constant improvements in hardware, software quality seems to be going in the opposite direction.
 
 That’s why I chose to learn the following:
 - **Knowledge Domains:** Databases, Distributed Systems  
