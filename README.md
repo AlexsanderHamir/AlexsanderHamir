@@ -1,19 +1,24 @@
 # 👋 Hi, I'm Alexsander!
 I’m a systems-focused engineer with a deep interest in building software that performs at scale and respects the underlying hardware it runs on.
 
+
+From January 2022 to February 2025, I taught myself computer science from scratch. Along the way, I became deeply interested in building software that’s efficient and lightweight. That passion came from a growing frustration — modern software keeps getting bloated for no good reason. Despite constant improvements in hardware, software quality often seems to go in the opposite direction.
+
+That’s why I chose to learn the following:
 - **Knowledge Domains:** Databases, Distributed Systems  
 - **Interests:** Computer Architecture, Operating Systems, Algorithm Design  
 - **Specialties:** Resource Efficiency, HFT Systems, System Architecture, Green Energy
-- **Mission:**  to build systems that scale responsibly — fast, efficient, and energy-aware.
 
 ### 🧠 What I'm Currently Building
 - **[Specialization Project – A2GDB](https://github.com/AlexsanderHamir/A2GDB)**
+### 🌍 Open Source Contributions
+- Pending...
 ### ✍️ Blog Posts
 I occasionally write about my technical learnings:
 - 📘 [Designing Systems That Respect Hardware](https://yourblog.com/designing-systems-that-respect-hardware)
 - ⚙️ [Scaling Without Wasting: Performance Meets Sustainability](https://yourblog.com/performance-meets-sustainability)
 - 🧠 [Lessons from Building a DBaaS from Scratch](https://yourblog.com/building-a-dbaas)
-- 👉 More posts at [yourblog.com](https://yourblog.com)
+- 👉 More posts at [alexsanderhamir](https://alexsanderhamir.medium.com/)
 ### 📫 Let's Connect
 Feel free to reach out if you're working on high-performance infra, sustainable computing, or want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
