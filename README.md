@@ -16,7 +16,7 @@ I occasionally write about my technical learnings:
 - Pending....
 - 👉 Medium: [alexsanderhamir](https://alexsanderhamir.medium.com/)
 ### 📫 Let's Connect
-Feel free to reach out if you're working on high-performance infra, sustainable computing, or want to build some open source project.
+Feel free to reach out if you want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
 - 📧 alex.gomes.hamir@outlook.com
 # 💻 Tech Stack
