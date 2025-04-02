@@ -10,7 +10,7 @@ That’s why I chose to learn the following:
 - **Specialties:** Resource Efficiency, HFT Systems, System Architecture, Green Energy
 
 ### 🧠 What I'm Currently Building
-- **[Specialization Project – A2GDB](https://github.com/AlexsanderHamir/A2GDB)**
+- **[Memory Context (Open Source)](https://github.com/AlexsanderHamir/memory-context)**
 ### ✍️ Blog Posts
 I occasionally write about my technical learnings:
 - Pending....
