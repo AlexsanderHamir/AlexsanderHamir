@@ -11,8 +11,6 @@ That’s why I chose to learn the following:
 
 ### 🧠 What I'm Currently Building
 - **[Specialization Project – A2GDB](https://github.com/AlexsanderHamir/A2GDB)**
-### 🌍 Open Source Contributions
-- Pending...
 ### ✍️ Blog Posts
 I occasionally write about my technical learnings:
 - 📘 [Designing Systems That Respect Hardware](https://yourblog.com/designing-systems-that-respect-hardware)
