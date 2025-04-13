@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Alexsander Hamir!
-I create open source tools that make it easy to build high-performance, resource-efficient software—without sacrificing productivity.
+I create open-source tools that make it easy to build high-performance, resource-efficient software—without sacrificing productivity. And more often than I’d like to admit, I’m engaged in a startup idea.
 
 ### 🧠 Main Open Source Projects
 - **[Memory Context](https://github.com/AlexsanderHamir/memory-context)**
 - 👉 Check fore more on my repos
-### ✍️ Blog Posts
-I occasionally write about my technical learnings:
-- Pending....
-- 👉 Medium: [alexsanderhamir](https://alexsanderhamir.medium.com/)
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
