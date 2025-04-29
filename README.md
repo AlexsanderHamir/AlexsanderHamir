@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Alexsander Hamir!
-I create open-source tools that make it easy to build high-performance, resource-efficient software—without sacrificing productivity. And more often than I’d like to admit, I’m engaged in a startup idea.
-
 ### 🧠 Main Open Source Projects
 - **[Memory Context](https://github.com/AlexsanderHamir/memory-context)**
 - 👉 Check fore more on my repos
