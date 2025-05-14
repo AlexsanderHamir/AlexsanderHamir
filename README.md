@@ -1,7 +1,9 @@
 ### 🧠 Main Open Source Projects
 - **[PoolX](https://github.com/AlexsanderHamir/PoolX)**
 - **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)**
--  **[Memora](https://github.com/AlexsanderHamir/Memora)**
+- **[Memora](https://github.com/AlexsanderHamir/Memora)**
+- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
+  
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
