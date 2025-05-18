@@ -1,6 +1,7 @@
 ### 🧠 Main Open Source Projects
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
 - **[PoolX](https://github.com/AlexsanderHamir/PoolX)**
+- **[LiteChan](https://github.com/AlexsanderHamir/Litechan)**
 - **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)**
 - **[Memora](https://github.com/AlexsanderHamir/Memora)**
   
