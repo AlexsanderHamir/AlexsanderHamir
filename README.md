@@ -1,16 +1,14 @@
 ### 🛠️ Main Open Source Projects
-* **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-assisted Golang profiler that simplifies performance analysis by consolidating multiple pprof commands into a single step.*&#x20;
 
-* **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance object pool for Go, offering configuration over when and how aggressively memory is reclaimed.&#x20;
-
-* **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic object pool for Go offering fine-grained control over object lifecycle management and resource utilization.*&#x20;
-
-* **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe ring buffer implementation using Go generics, providing efficient circular data storage.*&#x20;
-
-* **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for correlated object pools in Go, offering context-based grouping and cleanup for multiple pools used together.*&#x20;
+* **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-powered Go profiler that simplifies performance analysis.*
+* **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
+* **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic Go object pool with fine-grained lifecycle control.*
+* **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe generic ring buffer for efficient circular storage.*
+* **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
 
 ### 💡 Products
-* **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** – 👻 *Schedule tasks and let AI continue the work after your shift ends.*
+
+* **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** – 👻 *Schedule tasks and let AI work after your shift ends.*
 
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
