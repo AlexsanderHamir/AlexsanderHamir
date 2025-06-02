@@ -1,13 +1,17 @@
-### 🧠 Main Open Source Projects
-- **[Prof](https://github.com/AlexsanderHamir/prof)**
-- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
-- **[PoolX](https://github.com/AlexsanderHamir/PoolX)**
-- **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)**
-- **[Memora](https://github.com/AlexsanderHamir/Memora)**
+### 🛠️ Main Open Source Projects
+* **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-assisted Golang profiler that simplifies performance analysis by consolidating multiple pprof commands into a single step.*&#x20;
 
-### Products
-- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)**
-  
+* **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance object pool for Go, offering configuration over when and how aggressively memory is reclaimed.&#x20;
+
+* **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic object pool for Go offering fine-grained control over object lifecycle management and resource utilization.*&#x20;
+
+* **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe ring buffer implementation using Go generics, providing efficient circular data storage.*&#x20;
+
+* **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for correlated object pools in Go, offering context-based grouping and cleanup for multiple pools used together.*&#x20;
+
+### 💡 Products
+* **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** – 👻 *Schedule tasks and let AI continue the work after your shift ends.*
+
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
