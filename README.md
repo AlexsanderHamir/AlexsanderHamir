@@ -7,6 +7,7 @@
 * **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic Go object pool with fine-grained lifecycle control.*
 * **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe generic ring buffer for efficient circular storage.*
 * **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
+* **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** – Concurrency profiling for go
 
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
