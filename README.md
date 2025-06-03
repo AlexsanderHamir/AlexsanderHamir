@@ -1,7 +1,7 @@
 ### 🛠️ Main Open Source Projects
 
-* **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-powered Go profiler that simplifies performance analysis.*
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
+* **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-powered Go profiler that simplifies performance analysis.*
 * **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic Go object pool with fine-grained lifecycle control.*
 * **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe generic ring buffer for efficient circular storage.*
 * **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
