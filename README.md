@@ -1,4 +1,4 @@
-### 🛠️ Main Open Source Projects
+### 🛠️ My Open Source Projects
 
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
 * **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-powered Go profiler that simplifies performance analysis.*
