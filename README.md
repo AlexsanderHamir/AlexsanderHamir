@@ -6,10 +6,6 @@
 * **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe generic ring buffer for efficient circular storage.*
 * **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
 
-### 💡 Products
-
-* **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** – 👻 *Schedule tasks and let AI work after your shift ends.*
-
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
