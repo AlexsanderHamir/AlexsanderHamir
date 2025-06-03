@@ -1,5 +1,7 @@
 ### 🛠️ My Open Source Projects
 
+**Theme: High Performance**
+
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
 * **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *AI-powered Go profiler that simplifies performance analysis.*
 * **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic Go object pool with fine-grained lifecycle control.*
