@@ -1,6 +1,6 @@
 ### 🛠️ My Open Source Projects
 
-* **[GoFlow](https://github.com/AlexsanderHamir/GofLOW)** – 🛠️ *Pipelinevisualizer for modeling, testing, and optimizing staged data processing systems in Go.*
+* **[GoFlow](https://github.com/AlexsanderHamir/GofLOW)** – 🛠️ *Pipeline visualizer for modeling, testing, and optimizing staged data processing systems in Go.*
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
 * **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *Organizes Go benchmarks and applies AI-powered performance analysis.*
 * **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** – 🕵️‍♂️ *Tracks goroutine concurrency stats and generates insightful graphs.*
