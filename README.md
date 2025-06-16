@@ -9,8 +9,10 @@
 * **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic Go object pool with fine-grained lifecycle control.*
 * **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
 
+### 🤝 Contributions to Other Projects *(incoming)*
 
-
+I'm currently finalizing my own projects. Starting July 18, I’ll begin contributing to open source projects that align with my interests in performance, observability, and advancing practical applications of AI — including initiatives like Codex, OpenHands, and other AI-integrated developer tools.
+Updates and contribution links will be shared soon.
 
 ### 📫 Let's Connect
 Feel free to reach out if you want to build some open source project.
