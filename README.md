@@ -1,4 +1,9 @@
+### 👋 About Me
+
+I'm **Alexsander Hamir**, a software engineer with a focus on building tools that make developers more productive and systems more efficient. My focus lies at the intersection of performance, observability, and concurrency—primarily using **Go**, **Python** and some **C++**. I enjoy crafting solutions that solve real-world bottlenecks, from light-weight object pools to AI-powered profiling tools.
+
 ### 🛠️ My Open Source Projects
+![Profile Views](https://komarev.com/ghpvc/?username=AlexsanderHamir&color=blue)
 
 * **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *Organizes Go benchmarks and applies AI-powered performance analysis.*
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
