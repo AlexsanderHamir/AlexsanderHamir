@@ -15,7 +15,7 @@ I'm Alexsander Hamir, a software engineer who builds tools to help developers wo
 * **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
 
 ### 📫 Let's Connect
-Feel free to reach out if you want to build some open source project.
+Feel free to reach out.
 - 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
 - 📧 alex.gomes.hamir@outlook.com
 # 💻 Tech Stack
