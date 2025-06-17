@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm **Alexsander Hamir**, a software engineer with a focus on building tools that make developers more productive and systems more efficient. My focus lies at the intersection of performance, observability, and concurrency—primarily using **Go**, **Python** and some **C++**. I enjoy crafting solutions that solve real-world bottlenecks, from light-weight object pools to AI-powered profiling tools.
+I'm Alexsander Hamir, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency, mostly using Go, Python, and some C++. 
 
 ### 🛠️ My Open Source Projects
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexsanderHamir&color=blue)
