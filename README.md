@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm **Alexsander Hamir**, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency—mostly using Go, Python, and some C++.
+I'm **Alexsander Hamir**, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency—mostly using Go, Python, and Rust.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
