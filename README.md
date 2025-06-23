@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm **Alexsander Hamir**, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency—mostly using Go, Python, and C++. (maybe some java if I feel depressed)
+I'm **Alexsander Hamir**, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency—mostly using Go, Python, and Rust. (maybe some java if I feel depressed)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
@@ -30,8 +30,6 @@ Feel free to reach out:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
 ![Air](https://img.shields.io/badge/Air%20\(Golang%20Hot%20Reload\)-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Conan](https://img.shields.io/badge/conan-35495E?style=for-the-badge\&logo=circle\&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
