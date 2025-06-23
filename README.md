@@ -11,12 +11,12 @@ I'm **Alexsander Hamir**, a software engineer who builds tools to help developer
 * **[Prof](https://github.com/AlexsanderHamir/prof)** – 📈 *Organizes Go benchmarks and applies AI-powered performance analysis.*
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – ♻️ *High-performance Go object pool with configurable memory reclaiming.*
 * **[GoFlow](https://github.com/AlexsanderHamir/GofLOW)** – 🛠️ *Pipeline visualizer for modeling, testing, and optimizing staged data processing systems in Go.*
+* **[DagViz](https://github.com/AlexsanderHamir/DagWiz)** – *Visual DAG engine for advanced pipeline analytics and profiling, inspired by `GoFlow`.*
 * **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** – 🕵️‍♂️ *Tracks goroutine concurrency stats and generates insightful graphs.*
 * **[yieldpoint](https://github.com/AlexsanderHamir/yieldpoint)** – 🚦 *Cooperative goroutine yielding with priority-aware scheduling for low-latency Go systems.*
 * **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – 🔄 *Thread-safe generic ring buffer for efficient circular storage.*
 * **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – ⚙️ *Generic Go object pool with fine-grained lifecycle control.*
 * **[Memora](https://github.com/AlexsanderHamir/Memora)** – 🧬 *Lightweight manager for related Go object pools with context grouping.*
-* **[DagViz]()** – *Oncoming.*
 
 ### 📫 Let's Connect
 
