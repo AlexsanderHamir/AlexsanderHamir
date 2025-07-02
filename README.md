@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm **Alexsander Hamir**, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency—mostly using Go, Python, and Rust. (maybe some java if I feel depressed)
+I'm **Alexsander Hamir**, a software engineer who builds tools to help developers work faster and systems run better. I focus on performance, observability, and concurrency—mostly using Go, and Rust, sometimes Zig and Python.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
@@ -24,17 +24,14 @@ Feel free to reach out:
 * 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
 * 📧 [alex.gomes.hamir@outlook.com](mailto:alex.gomes.hamir@outlook.com)
 
-### 💻 Tech Stack
+### 💻 Languages
+
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Air](https://img.shields.io/badge/Air%20(Golang%20Hot%20Reload)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Apache Calcite](https://img.shields.io/badge/Apache%20Calcite-20232A?style=for-the-badge&logo=apache&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### 📊 GitHub Stats
