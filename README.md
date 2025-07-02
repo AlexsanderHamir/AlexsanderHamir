@@ -4,18 +4,13 @@ I'm **Alexsander Hamir**, a software engineer who builds tools to help developer
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
-### 🛠️ My Open Source Projects
+### 🛠️ Main Open Source Projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexsanderHamir\&color=blue)
 
 * **[Prof](https://github.com/AlexsanderHamir/prof)** – *Organizes Go benchmarks and applies AI-powered performance analysis.*
 * **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – *High-performance Go object pool with configurable memory reclaiming.*
 * **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** – *Pipeline visualizer for modeling, testing, and optimizing staged data processing systems in Go.*
-* **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** – *Tracks goroutine concurrency stats and generates insightful graphs.*
-* **[yieldpoint](https://github.com/AlexsanderHamir/yieldpoint)** – *Cooperative goroutine yielding with priority-aware scheduling for low-latency Go systems.*
-* **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – *Thread-safe generic ring buffer for efficient circular storage.*
-* **[PoolX](https://github.com/AlexsanderHamir/PoolX)** – *Generic Go object pool with fine-grained lifecycle control.*
-* **[Memora](https://github.com/AlexsanderHamir/Memora)** – *Lightweight manager for related Go object pools with context grouping.*
 
 ### 📫 Let's Connect
 
