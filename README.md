@@ -3,16 +3,11 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
 ### 🛠️ Main Open Source Projects
-
-> These are the tools I use most in my own work—each built to solve real pain points I encountered while working on high-performance Go systems.
-
-
 - **[Prof](https://github.com/AlexsanderHamir/prof)** – *Streamlines Go profiling by wrapping `pprof` with automation and AI-powered insights for faster, more actionable performance analysis.*
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – *Fast, flexible object pool that combines the speed of `sync.Pool` with control over when and how memory is reclaimed.*
-- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** – *Visualizes and tests pipeline stages to help model, debug, and optimize data processing systems in Go.*
 
 ### 🛠️ Specialized Tools for Niche Problems
-> These projects were developed to address specific challenges I encountered while exploring various database technical concepts.
+- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** – *Visualizes and tests pipeline stages to help model, debug, and optimize data processing systems in Go.*
 * **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** – *Tracks goroutine concurrency stats at the select case level and generates insightful graphs.*
 * **[yieldpoint](https://github.com/AlexsanderHamir/yieldpoint)** – *Cooperative goroutine yielding with priority-aware scheduling for low-latency Go systems.*
 * **[Ring Buffer](https://github.com/AlexsanderHamir/ring_buffer)** – *Thread-safe generic ring buffer for efficient circular storage.*
