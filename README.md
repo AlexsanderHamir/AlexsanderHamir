@@ -3,9 +3,9 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
 ### 🛠️ Main Open Source Projects
-- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – *Fast, flexible object pool that combines the speed of `sync.Pool` with control over when and how memory is reclaimed.*
-* **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** – *Visualizes and tests pipeline stages to help model, debug, and optimize data processing systems in Go.*
-- **[Prof](https://github.com/AlexsanderHamir/prof)** – *Streamlines Go profiling by wrapping `pprof` with automation and AI-powered insights for faster, more actionable performance analysis.*
+- **[GenPool](https://github.com/AlexsanderHamir/GenPool)**
+* **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
+- **[Prof](https://github.com/AlexsanderHamir/prof)**
 
 ### 📫 Let's Connect
 
