@@ -4,7 +4,7 @@
 
 ### 🛠️ Main Open Source Projects
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)**
-* **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
+- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
 - **[Yieldpoint](https://github.com/AlexsanderHamir/yieldpoint)**
 - **[Idlespy](https://github.com/AlexsanderHamir/IdleSpy)**
 
