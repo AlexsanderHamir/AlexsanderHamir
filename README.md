@@ -12,7 +12,7 @@
 Feel free to reach out:
 
 * 💼 [LinkedIn (Preferred)](https://www.linkedin.com/in/alexsander-baptista/)
-* 📧 [alex.gomes.hamir@outlook.com](mailto:alex.gomes.hamir@outlook.com)
+* 📧 [gomes.alexsander.hamir@outlook.com](mailto:gomes.alexsander.hamir@outlook.com)
 
 ### 💻 Languages
 
