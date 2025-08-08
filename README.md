@@ -7,6 +7,11 @@
 - **[Prof](https://github.com/AlexsanderHamir/prof)**
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
 
+### More About Me
+
+- 📖 I write articles and tutorials on [Medium](https://alexsanderhamir.medium.com)
+- 💬 I share insights and contribute to discussions on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/)
+
 ### 📫 Let's Connect
 
 Feel free to reach out:
