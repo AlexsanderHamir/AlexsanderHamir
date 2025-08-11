@@ -2,7 +2,7 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
-### 🛠️ Main Open Source Projects
+### 🛠️ My OSS
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)**
 - **[Prof](https://github.com/AlexsanderHamir/prof)**
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
