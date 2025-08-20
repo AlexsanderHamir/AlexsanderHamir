@@ -12,8 +12,8 @@
 
 ### ⚰️ Business Graveyard
 *Ideas so promising they almost convinced me to buy a Patagonia vest.*
-- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - An "agentic system" to spawn and coordinate AI teams. The main coordination problem turned out to be keeping my ambition in check with reality.
 - **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)** - I built agent pipelining. Then I discovered n8n.
+- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - An "agentic system" to spawn and coordinate AI teams. The main coordination problem turned out to be keeping my ambition in check with reality.
 
 ### 💀 OSS Graveyard (The "Learning Experiences")
 *Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
