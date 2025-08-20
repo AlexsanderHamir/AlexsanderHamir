@@ -2,20 +2,20 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
-### 🚀 My OSS (The Hits)
+### 🚀 OSS (The Hits)
 - **[Prof](https://github.com/AlexsanderHamir/prof)** - Making profiling less of a prof-anity.
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** - An object pool that's actually-generic-and-useful.
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** - Because sometimes you need to see where your code is procrastinating.
 
-### 🧪 My Businesses
+### 🧪 Businesses
 - **[Name_Pending](https://github.com/AlexsanderHamir/Pending)** (🚧 *In Development*) - Making it radically simpler for open-source maintainers to find the right help and for developers to prove their skills.*...or I'm just building the most elaborate graveyard entry yet.*
 
-### ⚰️ Business Graveyard
+### ⚰️ Businesses Graveyard
 *Ideas so promising they almost convinced me to buy a Patagonia vest.*
 - **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)** - I built agent pipelining. Then I discovered n8n.
 - **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - An "agentic system" to spawn and coordinate AI teams. The main coordination problem turned out to be keeping my ambition in check with reality.
 
-### 💀 OSS Graveyard (The "Learning Experiences")
+### ⚰️ OSS Graveyard (The "Learning Experiences")
 *Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
 - **[prof_ai](https://github.com/AlexsanderHamir/prof_py)** - For when you want your profiling to take 100x longer and be 0% more helpful.
 - **[PoolX](https://github.com/AlexsanderHamir/PoolX)** - I got really, *really* excited about not allocating memory. It was a phase.
