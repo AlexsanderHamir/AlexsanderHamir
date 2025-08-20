@@ -2,7 +2,7 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
-### 🚀 OSS (The Hits)
+### 🚀 Useful OSS
 - **[Prof](https://github.com/AlexsanderHamir/prof)** 
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
