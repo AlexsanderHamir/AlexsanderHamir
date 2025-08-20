@@ -3,10 +3,10 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
 ### 🚀 OSS (The Hits)
-- **[Prof](https://github.com/AlexsanderHamir/prof)** - Making profiling less of a prof-anity.
-- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** - An object pool that's actually-generic-and-useful.
-- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** - Because sometimes you need to see where your code is procrastinating.
-
+- **[Prof](https://github.com/AlexsanderHamir/prof)** 
+- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
+- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
+  
 ### 🧪 Businesses
 - **[Name_Pending](https://github.com/AlexsanderHamir/Pending)** (🚧 *In Development*) - Making it radically simpler for open-source maintainers to find the right help and for developers to prove their skills.*...or I'm just building the most elaborate graveyard entry yet.*
 
