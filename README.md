@@ -7,7 +7,7 @@
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
   
-### 🧪 Businesses
+### 🧪 Useful Businesses
 - **[Name_Pending](https://github.com/AlexsanderHamir/Pending)** (🚧 *In Development*) - Making it radically simpler for open-source maintainers to find the right help and for developers to prove their skills.*...or I'm just building the most elaborate graveyard entry yet.*
 
 ### ⚰️ Businesses Graveyard
