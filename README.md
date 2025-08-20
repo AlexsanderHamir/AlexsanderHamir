@@ -2,15 +2,25 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
-### 🛠️ My OSS
-- **[GenPool](https://github.com/AlexsanderHamir/GenPool)**
-- **[Prof](https://github.com/AlexsanderHamir/prof)**
-- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
+### 🚀 My OSS (The Hits)
+- **[Prof](https://github.com/AlexsanderHamir/prof)** - Making profiling less of a prof-anity.
+- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** - An object pool that's actually-generic-and-useful.
+- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** - Because sometimes you need to see where your code is procrastinating.
 
-### More About Me
+### 💀 The Graveyard (The "Learning Experiences")
+*Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
+- **[prof_ai](https://github.com/AlexsanderHamir/prof_py)** - For when you want your profiling to take 100x longer and be 0% more helpful.
+- **[PromptMash](https://github.com/AlexsanderHamir/PromptMash)** - Pipelining agents before I had agents to pipeline. 🧠➡️🗑️
+- **[PoolX](https://github.com/AlexsanderHamir/PoolX)** - I got really, *really* excited about not allocating memory. It was a phase.
+- **[Memora](https://github.com/AlexsanderHamir/Memora)** - A management system for multiple PoolX instances. It solved the problem of "what if you need a second PoolX" which, it turns out, is a problem that precedes the problem of "why are you using PoolX in the first place?" 🔄➡️🗑️
+- **[TokenSpan](https://github.com/AlexsanderHamir/TokenSpan)** - A "revolutionary" prompt hack. It was neither revolutionary, nor much of a hack.
+- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - My attempt to build an AI dev team. They unionized and demanded better training data.
+- **[GoCortex](https://github.com/AlexsanderHamir/GoCortex)** - Taught an AI to be my intern. It spent most of its time generating excuses. 🤖❌
+- **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist.
 
-- 📖 I write articles and tutorials on [Medium](https://alexsanderhamir.medium.com)
-- 💬 I share insights and contribute to discussions on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/)
+
+### 📖 More About Me
+I dissect my projects—both the hits and the misses—as technical experiments. I write about the insights on [Medium](https://alexsanderhamir.medium.com) and discuss them on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/).
 
 ### 📫 Let's Connect
 
@@ -26,10 +36,3 @@ Feel free to reach out:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AlexsanderHamir\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=AlexsanderHamir\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
