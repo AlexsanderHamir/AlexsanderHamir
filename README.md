@@ -7,7 +7,7 @@
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** - An object pool that's actually-generic-and-useful.
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** - Because sometimes you need to see where your code is procrastinating.
 
-### 💀 The Graveyard (The "Learning Experiences")
+### 💀 Graveyard (The "Learning Experiences")
 *Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
 - **[prof_ai](https://github.com/AlexsanderHamir/prof_py)** - For when you want your profiling to take 100x longer and be 0% more helpful.
 - **[PromptMash](https://github.com/AlexsanderHamir/PromptMash)** - Pipelining agents before I had agents to pipeline. 🧠➡️🗑️
