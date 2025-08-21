@@ -16,8 +16,7 @@
 - **[GoCortex](https://github.com/AlexsanderHamir/GoCortex)** - Taught an AI to be my intern. It spent most of its time generating excuses. 
 - **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist.
 - **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)** - I built agent pipelining. Then I discovered n8n.
-- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - A first-mover in the emergent autonomous agent orchestration space. We pioneered a novel approach to... [checks notes]... competing with every other dev on Twitter/X building the exact same thing.
-
+- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - A "first-mover" in the emergent autonomous agent orchestration space.
 ### 📖 More About Me
 1. I dissect my projects—both the hits and the misses—as technical experiments. I write about the insights on [Medium](https://alexsanderhamir.medium.com) and discuss them on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/).
 2. I like treating everything as an experiment, so you're just doing me a favor when you tell me that I am wrong.
