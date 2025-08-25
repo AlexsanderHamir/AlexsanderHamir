@@ -12,7 +12,6 @@
 - **[prof_ai](https://github.com/AlexsanderHamir/prof_py)** - For when you want your profiling to take 100x longer and be 0% more helpful.
 - **[PoolX](https://github.com/AlexsanderHamir/PoolX)** - I got really, *really* excited about not allocating memory. It was a phase.
 - **[Memora](https://github.com/AlexsanderHamir/Memora)** - A management system for multiple PoolX instances. It solved the problem of "what if you need a second PoolX".
-- **[TokenSpan](https://github.com/AlexsanderHamir/TokenSpan)** - A "revolutionary" prompt hack. It was neither revolutionary, nor much of a hack.
 - **[GoCortex](https://github.com/AlexsanderHamir/GoCortex)** - Taught an AI to be my intern. It spent most of its time generating excuses. 
 - **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist.
 - **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)** - I built agent pipelining. Then I discovered n8n.
