@@ -6,6 +6,7 @@
 - **[Prof](https://github.com/AlexsanderHamir/prof)** 
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
+- **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)**
 
 ### ⚰️ OSS Graveyard (The "Learning Experiences")
 *Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
@@ -14,7 +15,6 @@
 - **[Memora](https://github.com/AlexsanderHamir/Memora)** - A management system for multiple PoolX instances. It solved the problem of "what if you need a second PoolX".
 - **[GoCortex](https://github.com/AlexsanderHamir/GoCortex)** - Taught an AI to be my intern. It spent most of its time generating excuses. 
 - **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist.
-- **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)** - I built agent pipelining. Then I discovered n8n.
 - **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - A "first-mover" in the emergent autonomous agent orchestration space.
 ### 📖 More About Me
 1. I dissect my projects—both the hits and the misses—as technical experiments. I write about the insights on [Medium](https://alexsanderhamir.medium.com) and discuss them on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/).
