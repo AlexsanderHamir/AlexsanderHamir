@@ -4,7 +4,6 @@
 
 ### 🚀 Useful OSS
 - **[Prof](https://github.com/AlexsanderHamir/prof)**
-- **[AutoProf](https://github.com/AlexsanderHamir/GoCortex)**
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
 - **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)**
