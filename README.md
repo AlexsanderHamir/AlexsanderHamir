@@ -13,7 +13,7 @@
 - **[prof_ai](https://github.com/AlexsanderHamir/prof_py)** - For when you want your profiling to take 100x longer and be 0% more helpful.
 - **[PoolX](https://github.com/AlexsanderHamir/PoolX)** - I got really, *really* excited about not allocating memory. It was a phase.
 - **[Memora](https://github.com/AlexsanderHamir/Memora)** - A management system for multiple PoolX instances. It solved the problem of "what if you need a second PoolX".
-- **[GoCortex](https://github.com/AlexsanderHamir/GoCortex)** - The engine behind prof_ai, good, but not necessary.
+- **[GoCortex](https://github.com/AlexsanderHamir/GoCortex)** - The engine behind prof_ai.
 - **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist for most people.
 - **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - A "first-mover" in the emergent autonomous agent orchestration space.
 ### 📖 More About Me
