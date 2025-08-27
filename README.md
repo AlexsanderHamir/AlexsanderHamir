@@ -15,7 +15,7 @@
 - **[Memora](https://github.com/AlexsanderHamir/Memora)** - A management system for multiple PoolX instances. It solved the problem of "what if you need a second PoolX".
 - **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist for most people.
 - **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - A "first-mover" in the emergent autonomous agent orchestration space.
-- **[AutoProf](https://github.com/AlexsanderHamir/GoCortex)** - A more complex engine for prof_ai in rust that didn't do anything special.
+- **[AutoProf](https://github.com/AlexsanderHamir/GoCortex)** - An agentic runtime that uses prof, I forgot that cursor could already do that.
 ### 📖 More About Me
 1. I dissect my projects—both the hits and the misses—as technical experiments. I write about the insights on [Medium](https://alexsanderhamir.medium.com) and discuss them on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/).
 2. I like treating everything as an experiment, so you're just doing me a favor when you tell me that I am wrong.
