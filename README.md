@@ -3,10 +3,11 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
 ### 🚀 Useful OSS
-- **[Prof](https://github.com/AlexsanderHamir/prof)**
-- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** 
-- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)**
-- **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)**
+- **[Prof](https://github.com/AlexsanderHamir/prof)** – Automates profiling with `pprof`, benchmarks, and `qcachegrind` into an organized, searchable output with a single command.
+- **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – A flexible alternative to `sync.Pool`, built for workloads where object lifetimes are uncertain.  
+- **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** – Observability tool for concurrency patterns, helping identify bottlenecks and misbehaving nodes.  
+- **[PromptMesh](https://github.com/AlexsanderHamir/Promptmesh)** – Pipes responses from one agent into another, making day-to-day task automation simple and practical.  
+
 
 ### ⚰️ OSS Graveyard (The "Learning Experiences")
 *Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
