@@ -9,18 +9,6 @@
 - **[PromptMesh](https://github.com/AlexsanderHamir/Promptmesh)** – Pipes responses from one agent into another, making day-to-day task automation simple and practical.  
 
 
-### ⚰️ OSS Graveyard (The "Learning Experiences")
-*Here lie ideas that were... ahead of their time. Or behind. Mostly just behind.*
-- **[prof_ai](https://github.com/AlexsanderHamir/prof_py)** - For when you want your profiling to take 100x longer and be 0% more helpful.
-- **[PoolX](https://github.com/AlexsanderHamir/PoolX)** - I got really, *really* excited about not allocating memory. It was a phase.
-- **[Memora](https://github.com/AlexsanderHamir/Memora)** - A management system for multiple PoolX instances. It solved the problem of "what if you need a second PoolX".
-- **[IdleSpy](https://github.com/AlexsanderHamir/IdleSpy)** & **[Yieldpoint](https://github.com/AlexsanderHamir/Yieldpoint)** - Incredibly niche solutions for problems that may not actually exist for most people.
-- **[GhostDev](https://github.com/AlexsanderHamir/GhostDev)** - A "first-mover" in the emergent autonomous agent orchestration space.
-- **[AutoProf](https://github.com/AlexsanderHamir/GoCortex)** - An agentic runtime that uses prof, I forgot that cursor could already does that.
-### 📖 More About Me
-1. I dissect my projects—both the hits and the misses—as technical experiments. I write about the insights on [Medium](https://alexsanderhamir.medium.com) and discuss them on [Reddit](https://www.reddit.com/user/Safe-Programmer2826/submitted/).
-2. I like treating everything as an experiment, so you're just doing me a favor when you tell me that I am wrong.
-
 ### 📫 Let's Connect
 
 Feel free to reach out:
