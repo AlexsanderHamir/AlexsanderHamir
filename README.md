@@ -6,7 +6,7 @@
 - **[Prof](https://github.com/AlexsanderHamir/prof)** – Automates profiling with `pprof`, benchmarks, and `qcachegrind` into an organized, searchable output with a single command.
 - **[GenPool](https://github.com/AlexsanderHamir/GenPool)** – A flexible alternative to `sync.Pool`, built for workloads where object lifetimes are uncertain.  
 - **[GoFlow](https://github.com/AlexsanderHamir/GoFlow)** – Observability tool for concurrency patterns, helping identify bottlenecks and misbehaving nodes.  
-- **[PromptMesh](https://github.com/AlexsanderHamir/Promptmesh)** – Pipes responses from one agent into another, making day-to-day task automation simple and practical.  
+- **[PromptMash](https://github.com/AlexsanderHamir/Promptmesh)** – Pipes responses from one agent into another, making day-to-day task automation simple and practical.  
 
 
 ### 📫 Let's Connect
