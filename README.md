@@ -3,7 +3,7 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge)](https://github.com/sponsors/AlexsanderHamir)
 
 ### 💪🏿 Working on:
-- **[AtomOS](https://github.com/AlexsanderHamir/AtmomOS)** – Creates and manages workflows from any software in any stack.
+- **[AtomOS](https://github.com/AlexsanderHamir/AtomOS)** – Creates and manages workflows from any software in any stack.
 
 ### 🚀 Useful OSS
 - **[Prof](https://github.com/AlexsanderHamir/prof)** – Automates profiling with `pprof`, benchmarks, and `qcachegrind` into an organized, searchable output with a single command.
