@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi — I’m Alexander 👋
 
-<!--
-**AlexsanderHamir/AlexsanderHamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in low-latency production systems.
 
-Here are some ideas to get you started:
+I’m typically brought in when:
+- Latency is measured in seconds and needs to be measured in milliseconds
+- p99 is hurting real users
+- Throughput collapses under load
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve applied this work to:
+* Inference layers (Serving and routing ML models)
+* Query engines 
+* Trading systems 
+* Storage engines
+
+Recent work includes:
+- 20×–50× latency reductions in production systems
+- Scaling systems to 30K+ RPS
+- Building profiling and benchmarking frameworks
+
+I like solving the bottlenecks that survive conventional optimizations.
