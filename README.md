@@ -1,22 +1,18 @@
 ## Hi, I’m Alexander 👋
 
-I specialize in low-latency production systems.
+I specialize in low-latency, high-scale production systems.
 
-I’m typically brought in when:
+Teams bring me in when:
 - Latency is measured in seconds and needs to be measured in milliseconds  
 - p99 is hurting real users  
-- Throughput collapses under load  
+- Systems collapse under real load  
+- Performance issues start costing customers  
 
-I’ve applied this work to:
-- Inference layers (serving and routing ML models)  
-- Query engines  
-- Trading systems  
-- Storage engines  
-
-Recent work includes:
-- 20×–50× latency reductions in production systems  
-- Scaling systems to 30K+ RPS  
-- Building profiling and benchmarking frameworks  
+Recently, I:
+- Led a competitive performance turnaround, moving from slowest to lowest latency among the top AI gateways and eliminating performance-driven churn  
+- Served as primary technical lead for multi-region enterprise rollouts handling 30K–50K+ RPS  
+- Reduced infrastructure by 38% while increasing scale capacity  
+- Built production profiling and validation systems that reduced performance incidents by ~70–80%
 
 I focus on the bottlenecks that survive conventional optimizations.
 
